@@ -1,1 +1,1 @@
-# AsteroMiner
+# AstroMiner
